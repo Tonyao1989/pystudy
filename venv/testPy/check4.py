@@ -9,6 +9,6 @@ c=int(input('请输入数字'))
 #计算
 d=(b**2)-4*a*c
 #求根公式
-x1=(-b-cmath.sqrt(d))/(2*a)
-x2= (-b+cmath.sqrt(d))/(2*a)
-print('结果为 {0} 和 {1}'.format(x1,x2))
+X1=(-b-cmath.sqrt(d))/(2*a)
+X2= (-b+cmath.sqrt(d))/(2*a)
+print('结果为 {0} 和 {1}'.format(X1,X2))
