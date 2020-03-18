@@ -19,7 +19,7 @@ def is_number(a):
 
 
 #调用函数
-print(is_number('十1234'))
+print(is_number('十1234w'))
 
 #遍历
 # a='123abc'
